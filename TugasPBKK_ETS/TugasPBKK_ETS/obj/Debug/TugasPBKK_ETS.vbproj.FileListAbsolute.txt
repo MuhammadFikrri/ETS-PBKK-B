@@ -1,0 +1,12 @@
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\bin\Debug\TugasPBKK_ETS.exe.config
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\bin\Debug\TugasPBKK_ETS.exe
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\bin\Debug\TugasPBKK_ETS.pdb
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\bin\Debug\TugasPBKK_ETS.xml
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.vbprojAssemblyReference.cache
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.Resources.resources
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.vbproj.GenerateResource.cache
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.vbproj.CoreCompileInputs.cache
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.exe
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.xml
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.pdb
+D:\Program Visual Studio\TugasPBKK_ETS\TugasPBKK_ETS\obj\Debug\TugasPBKK_ETS.Form1.resources
