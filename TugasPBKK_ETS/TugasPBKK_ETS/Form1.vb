@@ -1,4 +1,4 @@
-﻿Public Class Form1
+Public Class Form1
 
     Private Function Cost_of_Item() As Double
         Dim sum As Double = 0
@@ -34,6 +34,7 @@
 
         End If
     End Sub
+
     Private Sub Button13_Click(sender As Object, e As EventArgs) Handles Expresso.Click
         Dim CostOfItem As Double = 10000.0
 
@@ -190,7 +191,7 @@
             End If
         Next
 
-        DataGridView1.Rows.Add("Cheese cake", "1", CostOfItem)
+        DataGridView1.Rows.Add("Cheese Cake", "1", CostOfItem)
         AddCost()
     End Sub
 
@@ -335,7 +336,7 @@
         If (cboPayment.Text = "Cash") Then
             Change()
         Else
-            lblChange.Text = ""
+            lblChange.Text = "0"
             lblCost.Text = "0"
         End If
     End Sub
