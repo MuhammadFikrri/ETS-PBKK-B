@@ -309,8 +309,8 @@ Public Class Form1
             lblCost.Text = ""
             lblCost.Text = b.Text
 
-        ElseIf (b.Text = ",") Then
-            If (Not lblCost.Text.Contains(",")) Then
+        ElseIf (b.Text = ".") Then
+            If (Not lblCost.Text.Contains(".")) Then
                 lblCost.Text = lblCost.Text + b.Text
             End If
 
@@ -373,5 +373,9 @@ Public Class Form1
 
     Private Sub PrintDocument1_PrintPage(sender As Object, e As Printing.PrintPageEventArgs) Handles PrintDocument1.PrintPage
         e.Graphics.DrawImage(bitmap, 10, 10)
+    End Sub
+
+    Private Sub lblCost_Click(sender As Object, e As EventArgs) Handles lblCost.Click
+
     End Sub
 End Class
